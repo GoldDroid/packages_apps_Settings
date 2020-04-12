@@ -14,14 +14,14 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="rr_mod_version" translatable="false">GA version</string>
+    <string name="rr_mod_version" translatable="false">GD version</string>
     <string name="build_date">Build date</string>
     <string name="mod_version_default">Default</string>
 
     <!-- General -->
     <string name="ok">Okay</string>
     <string name="reset">Reset</string>
-    <string name="dlg_reset_rr" translatable="false">GA</string>
+    <string name="dlg_reset_rr" translatable="false">GD</string>
     <string name="dlg_reset_android">Default</string>
     <string name="default_string">Default</string>
     <string name="add">Add</string>
@@ -37,10 +37,10 @@
     <string name="about_rr_settings">About</string>
     <string name="about_rr">About</string>
     <string name="about_rr_summary">@null</string>
-    <string name="about_r0m_summary" translatable="false">Groovy Android</string>
+    <string name="about_r0m_summary" translatable="false">Gold Droid</string>
     <string name="rr_donate">Donate to development</string>
     <string name="rr_donate_summary">Show your support to Resurrection Remix OS</string>
-    <string name="app_name" translatable="false">Groovy Android</string>
+    <string name="app_name" translatable="false">Gold Droid</string>
     <string name="devs">Dev Tag</string>
     <string name="github_westcrip">https://github.com/westcripp</string>
     <string name="github_varund7726">https://github.com/varund7726</string>

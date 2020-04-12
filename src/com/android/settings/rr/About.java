@@ -113,11 +113,11 @@ private static final String RR_ROM_SHARE = "share";
 
     public boolean onPreferenceTreeClick(Preference preference) {
         if (preference == mSiteUrl) {
-            launchUrl("http://groovyandroid.ga/");
+            launchUrl("http://");
         } else if (preference == mSourceUrl) {
-            launchUrl("https://github.com/GroovyAndroid");
+            launchUrl("https://");
         } else if (preference == mDonateUrl) {
-            launchUrl("https://paypal.me/BernardoBas");
+            launchUrl("https://");
         } else if (preference.getKey().equals(RR_ROM_SHARE)) {
             Intent intent = new Intent();
             intent.setAction(Intent.ACTION_SEND);
